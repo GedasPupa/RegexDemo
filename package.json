@@ -1,0 +1,14 @@
+{
+  "name": "regexdemo",
+  "version": "1.0.0",
+  "description": "Mokomes RegEx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "GP",
+  "license": "MIT"
+}
